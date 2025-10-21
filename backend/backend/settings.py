@@ -8,8 +8,8 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '123.123.123.123', 'taski.hopto.org']
-
+# ALLOWED_HOSTS = ['localhost', '123.123.123.123', 'taski.hopto.org']
+ALLOWED_HOSTS = ['89.169.161.141', '127.0.0.1', 'localhost', 'taskism.hopto.org']
 
 # Application definition
 
